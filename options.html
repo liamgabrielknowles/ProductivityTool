@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/options.css">
+    <title>Options</title>
+</head>
+<body>
+
+<div class="header myList">
+    <h2 class="list-title">Getting started</h2>
+    <div id="getting-started"> Add the Websites that hinder your productivity below. You will be blocked from using any website on the
+        list. You also have the ability to add items that you plan to do and how long you expect them to take. In
+        order to remove an item simply click on it. To quickly view items click on the plugin icon on the chrome
+        toolbar.</div>
+</div>
+<!-- ADDED STUFF -->
+<div id="myUrls" class="header myList">
+    <h2 class="list-title">Productivity Sapping Websites</h2>
+    <input type="url" id="myInput" placeholder="Add Website...">
+    <span class="addBtn" id="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+</ul>
+
+<div id="myTodo" class="header myList">
+    <h2 class="list-title">To-Do List</h2>
+    <input type="text" id="itemTodo" style="margin:5px" placeholder="Add To-do item...">
+    <input type="number" id="timeTodo" style="margin:5px" placeholder="Add expected time in hours...">
+    <span class="addBtn" id="addTodoBtn">Add To-do</span>
+</div>
+
+<ul id="myTodoUL">
+</ul>
+
+<!-- end of added stuff -->
+
+<script src="options.js"></script>
+
+</body>
+</html>

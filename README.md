@@ -1,2 +1,3 @@
-# ProductivityTool
-Chrome extension that allows users to block websites, set to-do items, and trigger website monitoring effects when desired.
+# ProductivityBooster
+
+A chrome extension designed to boost your productivity. All you have to do is add a todo list and a list of websites that hinder your productivity and the extension will do its best to keep you on track with your goals for the day.
