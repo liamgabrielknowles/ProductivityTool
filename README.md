@@ -6,20 +6,20 @@ This project was created in 3 days with my friend Juan Martos to help us stay on
 
 # Project Demonstration
 
-Tool pop-up tab: 
+### Tool pop-up tab: 
 
 ![](readme-images/Screen%20Shot%202021-05-19%20at%202.24.43%20PM.png)
 
-Tool control page (top): 
+### Tool control page (top): 
 
 ![](readme-images/Screen%20Shot%202021-05-19%20at%202.28.56%20PM.png)
 
 
-Tool control page (bottom): 
+### Tool control page (bottom): 
 
 ![](readme-images/Screen%20Shot%202021-05-19%20at%202.29.14%20PM.png)
 
-Blocked page example: 
+### Blocked page example: 
 
 ![](readme-images/Screen%20Shot%202021-05-19%20at%202.30.02%20PM.png)
 
