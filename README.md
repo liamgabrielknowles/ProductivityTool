@@ -6,7 +6,24 @@ This project was created in 3 days with my friend Juan Martos-Jiimenez to help u
 
 # Project Demonstration
 
+Tool pop-up tab: 
 
+![](readme-images/Screen%20Shot%202021-05-19%20at%202.24.43%20PM.png)
+
+Tool control page (top): 
+
+![](readme-images/Screen%20Shot%202021-05-19%20at%202.28.56%20PM.png)
+
+
+Tool control page (bottom): 
+
+![](readme-images/Screen%20Shot%202021-05-19%20at%202.29.14%20PM.png)
+
+Blocked page example: 
+
+![](readme-images/Screen%20Shot%202021-05-19%20at%202.30.02%20PM.png)
+
+To trigger the website blocking mechanism, all you need to do is activate the 'Grind Mode' button in the pop-up tab! 
 
 # Instructions to Download 
 
@@ -19,3 +36,5 @@ Installation instructions:
 just unzipped
 5. In the puzzle piece on the chrome toolbar where you interact with other extensions you
 should now be able to use the extension.
+
+Enjoy! 
